@@ -1,4 +1,3 @@
-  
 #!/bin/bash
 # this is my thirs script - helloworldugly.sh
 
